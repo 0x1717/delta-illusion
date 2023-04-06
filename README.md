@@ -7,7 +7,7 @@
 - :pill: Example: `Instagram = 16`
 - :pill: Example: `Spotify = 67`
 - :heavy_check_mark: Since the argv function is not used, there is no trace in your command history.
-- :heavy_check_mark: I recommend that the second password you use should contain uppercase letters and symbols. It will be a reasonable feature for applications that require capital letters and symbols.
+- :heavy_check_mark: I recommend that the first password you use should contain uppercase letters and symbols. It will be a reasonable feature for applications that require capital letters and symbols.
 
 ## Install and Usage
 
