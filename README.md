@@ -1,4 +1,4 @@
-## delta-illusion :magic_wand:
+## delta-illusion :shield:
 
 ### delta-illusion is a tool to get 64 passwords with 1(0.5 + 0.5) password.
 
